@@ -1,0 +1,17 @@
+G:\mytool\编程资料\万能播放器源码\vlc.net\bin\Release\vlcPlayer.exe.config
+G:\mytool\编程资料\万能播放器源码\vlc.net\bin\Release\vlcPlayer.exe
+G:\mytool\编程资料\万能播放器源码\vlc.net\bin\Release\vlcPlayer.pdb
+G:\mytool\编程资料\万能播放器源码\vlc.net\obj\x86\Release\vlcPlayer.PlayerWindow.resources
+G:\mytool\编程资料\万能播放器源码\vlc.net\obj\x86\Release\vlcPlayer.Properties.Resources.resources
+G:\mytool\编程资料\万能播放器源码\vlc.net\obj\x86\Release\MyPlayer.csproj.GenerateResource.Cache
+G:\mytool\编程资料\万能播放器源码\vlc.net\obj\x86\Release\vlcPlayer.exe
+G:\mytool\编程资料\万能播放器源码\vlc.net\obj\x86\Release\vlcPlayer.pdb
+E:\编程资料\万能播放器源码\vlc.net\bin\Release\vlcPlayer.exe.config
+E:\编程资料\万能播放器源码\vlc.net\obj\x86\Release\vlcPlayer.exe
+E:\编程资料\万能播放器源码\vlc.net\obj\x86\Release\vlcPlayer.pdb
+E:\编程资料\万能播放器源码\vlc.net\bin\Release\vlcPlayer.exe
+E:\编程资料\万能播放器源码\vlc.net\bin\Release\vlcPlayer.pdb
+E:\编程资料\万能播放器源码\vlc.net\obj\x86\Release\vlcPlayer.PlayerWindow.resources
+E:\编程资料\万能播放器源码\vlc.net\obj\x86\Release\vlcPlayer.Properties.Resources.resources
+E:\编程资料\万能播放器源码\vlc.net\obj\x86\Release\MyPlayer.csproj.GenerateResource.Cache
+E:\编程资料\万能播放器源码\vlc.net\obj\x86\Release\MyPlayer.csprojResolveAssemblyReference.cache
